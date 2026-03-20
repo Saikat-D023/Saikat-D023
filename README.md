@@ -1,27 +1,50 @@
-# Hi there, I'm Saikat! 👋
+<div align="center">
 
-[cite_start]I'm a **Full Stack Developer** based in Kolkata, India[cite: 1, 46, 48].
+# Hi, I'm Saikat 👋
 
-[cite_start]I build and orchestrate scalable AI systems and high-performance web apps[cite: 4, 8, 47].
+**Full Stack Developer** · React · Node.js · TypeScript · AI Engineering  
+Based in Kolkata, India · Open to Dev & AI Engineering roles
 
-If an idea sparks, I’m usually deep in the code shipping it. [cite_start]My background in **Quality Engineering** means I have a "detective mindset"—I write code that's actually reliable[cite: 50, 52, 53].
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikatdey358)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dsaikat5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saikatdey358@gmail.com)
 
-[cite_start]Currently, I'm a Software Developer @ **Cognizant**, transitioning into pure Development and AI Engineering roles[cite: 11, 12, 50, 54].
+</div>
 
-### My main tech stack:
-* [cite_start]**Frameworks:** Next.js, React, Node.js, Express[cite: 6, 57].
-* [cite_start]**Languages:** TypeScript, JavaScript, Java[cite: 6, 56, 57].
-* [cite_start]**AI:** Production RAG pipelines, OpenAI, Gemini API, pgvector[cite: 8, 23, 25, 30].
-* [cite_start]**Database:** PostgreSQL, MongoDB, Prisma ORM[cite: 7, 57, 58].
+---
 
-### Pinned Projects:
-* [cite_start]**Production RAG System:** Real-time chat with an LLM-as-a-Judge eval layer[cite: 23, 27].
-* [cite_start]**Draftly:** Converting 2D floor plans into 3D renders via Gemini[cite: 28, 30].
-* [cite_start]**LeetMeOut:** A multi-language coding platform that scales[cite: 32, 34].
+### Who I am
 
-### Fun Facts:
-* **Hobbies:** Gym, reading classic literature, and building things.
-* **Status:** 60-day notice period.
-* **Current Mood:** "I'm just here for the green squares."
+Full Stack Developer at **Cognizant** with 1.5 years of experience, actively transitioning into software development and AI engineering roles. My background in Quality Engineering gives me a detective mindset — I write code that's reliable by design, not by luck.
 
-**Let's connect:** [Twitter (X)](https://x.com/dsaikat5) | [LinkedIn](https://linkedin.com/in/saikatdey358) | [Email](mailto:saikatdey358@gmail.com)
+I build scalable web apps and AI-driven systems. If an idea sparks, I'm usually deep in the code shipping it.
+
+---
+
+### What I'm working on
+
+| Project | Stack | Description |
+|---|---|---|
+| **Production RAG System** | Next.js · TypeScript · pgvector · OpenAI | Real-time streaming chat with hybrid BM25 + cosine search and an LLM-as-a-Judge eval layer |
+| **Draftly** | React · Node.js · Gemini API | AI platform that converts 2D floor plans into 3D renders via serverless architecture |
+| **LeetMeOut** | Node.js · Judge0 · REST APIs | Multi-language coding platform with automated code evaluation |
+
+---
+
+### Tools I use
+
+**Frameworks & Languages** — Next.js · React · Node.js · Express · TypeScript · JavaScript · Java
+
+**AI & Data** — OpenAI SDK · Gemini API · pgvector · Production RAG pipelines
+
+**Database & ORM** — PostgreSQL · MongoDB · Prisma ORM
+
+**DevOps & Testing** — Docker · GitHub Actions · CI/CD · Selenium · Karate Framework
+
+---
+
+### Reach me
+
+📧 saikatdey358@gmail.com · [LinkedIn](https://linkedin.com/in/saikatdey358) · [Twitter / X](https://x.com/dsaikat5)
+
+**Status:** Actively exploring Full Stack / AI Engineering roles · 60-day notice · Responds within 24 hrs
