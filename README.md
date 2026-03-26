@@ -7,7 +7,7 @@ Based in Kolkata, India · Open to Dev & AI Engineering roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saikatdey358)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/dsaikat5)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saikatdey358@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saikatdey232@gmail.com)
 
 </div>
 
@@ -45,6 +45,6 @@ I build scalable web apps and AI-driven systems. If an idea sparks, I'm usually 
 
 ### Reach me
 
-📧 saikatdey358@gmail.com · [LinkedIn](https://linkedin.com/in/saikatdey358) · [Twitter / X](https://x.com/dsaikat5)
+📧 saikatdey232@gmail.com · [LinkedIn](https://linkedin.com/in/saikatdey232) · [Twitter / X](https://x.com/dsaikat5)
 
 **Status:** Actively exploring Full Stack / AI Engineering roles · 60-day notice · Responds within 24 hrs
